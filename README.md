@@ -2,3 +2,4 @@
 
 CT GAN <br>
 Copula GAN <br>
+STAN <br>
